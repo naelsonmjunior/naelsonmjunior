@@ -13,16 +13,6 @@
 - **Web & Frontend:** TypeScript, JavaScript, React (basic)
 - **AI/ML & Automation:** OpenAI API, GitHub Actions, automation scripting
 
-## 🛠️ Tools & Certifications
-- **Certifications:**
-  - Ethical Hacking & Penetration Testing for Web Apps (3.5h)
-  - Managing Database Versions with Liquibase & Spring Boot
-  - Agile Development: eXtreme Programming (XP)
-  - Regular Expressions: Capturing Text Magically (12h)
-  - Mobile Development Android (18h)
-- **Patent:**
-  - Site Generator for Graduate Programs following CAPES standard
-
 ## 🌱 Languages
 - Portuguese 🇧🇷 (Native)
 - English 🇺🇸 (Full Professional)
