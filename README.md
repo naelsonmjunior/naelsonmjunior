@@ -3,7 +3,7 @@
 
 📫 **Contact**
 - Mobile: +55(11)9666078831
-- Email: [naelson.matheus@blankfactor.com](mailto:naelson.matheus@blankfactor.com)
+- Email: [naelson.matheus@globant.com](mailto:naelson.matheus@globant.com)
 
 ## 👀 Core Competencies
 - **Backend & Microservices:** Java, Kotlin, Spring Boot, Quarkus
@@ -18,7 +18,7 @@
 - English 🇺🇸 (Full Professional)
 
 ## 💞️ Collaborations & Open Source
-- [dino-ai](https://github.com/naelsonmjunior/dino-ai) — AI bot for the Chrome Dino game
+- [dino-ai]([https://github.com/naelsonmjunior/dino-ai](https://github.com/burbes/dinossauro-google)) — AI bot for the Chrome Dino game
 
 ## ⚡ Fun Facts
 - Former ballroom dance instructor
