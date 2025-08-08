@@ -18,7 +18,7 @@
 - English 🇺🇸 (Full Professional)
 
 ## 💞️ Collaborations & Open Source
-- [dino-ai]([https://github.com/naelsonmjunior/dino-ai](https://github.com/burbes/dinossauro-google)) — AI bot for the Chrome Dino game
+- https://github.com/burbes/dinossauro-google - Dino Ai — AI bot for the Chrome Dino game
 
 ## ⚡ Fun Facts
 - Former ballroom dance instructor
