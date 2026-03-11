@@ -6,16 +6,16 @@
 - Email: [naelson.matheus@globant.com](mailto:naelson.matheus@globant.com)
 
 ## 👀 Core Competencies
-- **Backend & Microservices:** Java, Kotlin, Spring Boot, Quarkus
-- **Messaging & Integration:** RabbitMQ, Kafka, REST & gRPC APIs
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **DevOps & CI/CD:** Docker, Kubernetes, AWS (ECS, Lambda), GitLab CI, Terraform, Ansible
-- **Web & Frontend:** TypeScript, JavaScript, React (basic)
-- **AI/ML & Automation:** OpenAI API, GitHub Actions, automation scripting
+- **Backend & Microservices:** Java, Kotlin, Python
+- **Messaging & Integration:** SQS, SNS, REST & gRPC APIs
+- **Databases:** SQL, Non-SQL, Cache, In-memory
+- **DevOps & CI/CD:** Docker, Kubernetes, AWS, GPC, Git, Terraform
+- **Web & Frontend:** Node, React, TypeScript, CSS3, HTML5
 
 ## 🌱 Languages
 - Portuguese 🇧🇷 (Native)
 - English 🇺🇸 (Full Professional)
+- Spanish LATAM (Basic)
 
 ## 💞️ Collaborations & Open Source
 - https://github.com/burbes/dinossauro-google - Dino Ai — AI bot for the Chrome Dino game
