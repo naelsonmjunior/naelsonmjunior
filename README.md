@@ -2,8 +2,9 @@
 # 👋 Hi, I’m @naelsonmjunior
 
 📫 **Contact**
-- Mobile: +55(11)9666078831
-- Email: [naelson.matheus@globant.com](mailto:naelson.matheus@globant.com)
+- Mobile: +55 (11) 9666078831
+- Email 1: [ext-naelson.matheus@globant.com](mailto:ext-naelson.matheus@globant.com)
+- Email 2: [naelson.matheus@joinworth.com](mailto:naelson.matheus@joinworth.com)
 
 ## 👀 Core Competencies
 - **Backend & Microservices:** Java, Kotlin, Python
